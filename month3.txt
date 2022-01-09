@@ -1,0 +1,5 @@
+3/3
+Rent: $0.00 (Unpayed)
+Electricity: $0.00 (Unpayed)
+Water: $1.00 (Unpayed)
+Internet: $0.00 (Unpayed)

@@ -1,0 +1,6 @@
+2/3
+Rent: $0.00 (Unpayed)
+Electricity: $24.70 (Unpayed)
+Water: $1.00 (Unpayed)
+Internet: $2.70 (Unpayed)
+Bonkey: $24.00 (Payed)

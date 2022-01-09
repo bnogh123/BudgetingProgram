@@ -1,0 +1,14 @@
+﻿  Month.cpp
+  Noghnogh_FinalProject.cpp
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Payment.h(8,1): error C2011: 'Payment': 'class' type redefinition
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Payment.h(7): message : see declaration of 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Noghnogh_FinalProject.cpp(21,42): error C2027: use of undefined type 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Payment.h(7): message : see declaration of 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Noghnogh_FinalProject.cpp(53,44): error C2027: use of undefined type 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Payment.h(7): message : see declaration of 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Noghnogh_FinalProject.cpp(53,79): error C2027: use of undefined type 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Payment.h(7): message : see declaration of 'Payment'
+C:\Users\Bassem Noghnogh\Documents\Comp Sci\Noghnogh_FinalProject\Noghnogh_FinalProject.cpp(53,80): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information
